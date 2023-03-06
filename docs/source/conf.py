@@ -32,3 +32,17 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'  # in conf.py file
 html_static_path = ['_static']
+
+
+# LaTex UNICODE Options --------------------------------
+latex_engine = 'xelatex'
+latex_elements = {
+    'fontpkg': r'''
+    \setmainfont{DejaVu Serif}
+    \setsansfont{DejaVu Sans}
+    \setmonofont{DejaVu Sans Mono}
+    ''',
+    'inputenc': '',
+    'utf8extra': '',
+}
+

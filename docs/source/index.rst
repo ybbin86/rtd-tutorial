@@ -7,10 +7,10 @@
 ==============================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: JAX 101
 
-   JAX101
+   JAX101/Pseudo_Random_Numbers_in_JAX.md
 
 
 

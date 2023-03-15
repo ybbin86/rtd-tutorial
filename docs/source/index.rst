@@ -14,5 +14,5 @@ JAX는 고성능 수치 컴퓨팅을 위해 Autograd_와 XLA_를 결합한 것�
    :hidden:
    :maxdepth: 1
 
-   jax-101/index
+   JAX101/index
 

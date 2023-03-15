@@ -11,8 +11,6 @@
    :caption: JAX 101
 
    JAX101/Pseudo_Random_Numbers_in_JAX.md
-   JAX101/Stateful_Computations_in_JAX.ipynb
-   JAX101/Working with Pytrees.ipynb
 
 
 

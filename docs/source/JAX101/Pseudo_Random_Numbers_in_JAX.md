@@ -1,4 +1,4 @@
-# Pseudo Random Numbers in JAX
+# JAX에서 유사난수생성(PRN)
 
 <a href="https://colab.research.google.com/drive/1PkpzL8bkU4IlUbytFc-JX93QXtNX1tsD" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 

@@ -1,6 +1,8 @@
 # 가속화된 NumPy인 JAX
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google/jax/blob/main/docs/jax-101/01-jax-basics.ipynb)
+
+<a href="https://colab.research.google.com/github/google/jax/blob/main/docs/jax-101/01-jax-basics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 
 *저자: Rosalia Schneider & Vladimir Mikulik*
 

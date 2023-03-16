@@ -1,6 +1,6 @@
 # JAX에서 상태를 유지하는 연산
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google/jax/blob/main/docs/jax-101/07-state.ipynb)
+<a href="https://colab.research.google.com/github/google/jax/blob/main/docs/jax-101/07-state.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 이번 섹션은 JAX에서 상태를 유지하는 프로그램의 구현을 어떻게 제한하는지 살펴보겠습니다.
 

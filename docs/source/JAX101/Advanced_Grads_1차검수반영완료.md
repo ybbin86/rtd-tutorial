@@ -1,4 +1,5 @@
 # JAX의 고급 자동 미분
+
 *원저자: Vlatimir Miklik & Matteo Hessel*
 
 *역자 : 이영빈*

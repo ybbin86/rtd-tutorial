@@ -15,7 +15,10 @@ author = 'ybeen'
 
 
 
-extensions = ['myst_nb']
+extensions = [
+    'myst_nb',
+    'sphinx_design'
+]
 source_suffix = ['.rst', '.md', '.ipynb']
 
 

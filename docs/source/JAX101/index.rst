@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-영빈조의 ReadtheDocs에 오신걸 환영합니다ㅏㅏ!
-==============================================
-
 .. toctree::
    :maxdepth: 1
    :caption: Tutorial: JAX 101

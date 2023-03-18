@@ -16,3 +16,5 @@ JAX는 고성능 수치 컴퓨팅을 위해 Autograd_와 XLA_를 결합한 것�
 
    JAX101/index
 
+.. _Autograd: https://github.com/hips/autograd
+.. _XLA: https://www.tensorflow.org/xla

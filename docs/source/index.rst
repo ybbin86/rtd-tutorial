@@ -57,7 +57,14 @@ JAX는 고성능 수치 컴퓨팅을 위해 `Autograd <https://github.com/hips/a
 
           pip install "jax[tpu]>=0.2.16" -f https://storage.googleapis.com/jax-releases/libtpu_releases.html
 
+JAX 프로젝트 README의 `설치 가이드 <https://github.com/google/jax#installation>`_에서 지원되는 가속기와 플랫폼에 대한 자세한 정보 및 기타 설치 옵션을 확인할 수 있습니다.
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Getting Started
+
+   JAX101/(최종본)🔪JAX_The_Sharp_bits🔪.md
 
 .. toctree::
    :hidden:

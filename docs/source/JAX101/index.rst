@@ -3,9 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+Tutorial: JAX 101
+==============================================
+
 .. toctree::
    :maxdepth: 1
-   :caption: Tutorial: JAX 101
+   :caption: Tutorial
 
    .. 01-jax-basics-translated.md
    형섭초벌_Jitting_functions_in_JAX.md

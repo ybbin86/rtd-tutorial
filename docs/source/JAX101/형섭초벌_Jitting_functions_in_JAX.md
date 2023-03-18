@@ -1,4 +1,4 @@
-# JAX에서의 Just-In-Time 컴파일
+# JAX의 Just-In-Time 컴파일
 
 
 <a href="https://colab.research.google.com/github/google/jax/blob/main/docs/jax-101/02-jitting.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>

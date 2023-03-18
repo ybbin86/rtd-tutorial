@@ -6,7 +6,7 @@
 JAX KR 테스트
 ==============================================
 
-JAX는 고성능 수치 컴퓨팅을 위해 `Autograd`_ 와 `XLA`_ 를 결합한 것입니다.
+JAX는 고성능 수치 컴퓨팅을 위해 `Autograd <https://github.com/hips/autograd>`_ 와 `XLA <https://www.tensorflow.org/xla>`_ 를 결합한 것입니다.
 
 .. grid:: 3
    :margin: 0
@@ -34,7 +34,29 @@ JAX는 고성능 수치 컴퓨팅을 위해 `Autograd`_ 와 `XLA`_ 를 결합한
 
       동일한 코드가 CPU, GPU 및 TPU를 포함한 여러 백엔드에서 실행됩니다.
 
-테스트 중
+
+설치
+------------
+.. tab-set::
+
+    .. tab-item:: CPU
+
+       .. code-block:: bash
+
+          pip install "jax[cpu]"
+
+    .. tab-item:: GPU (CUDA)
+
+       .. code-block:: bash
+
+          pip install "jax[cuda]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+    .. tab-item:: TPU (Google Cloud)
+
+       .. code-block:: bash
+
+          pip install "jax[tpu]>=0.2.16" -f https://storage.googleapis.com/jax-releases/libtpu_releases.html
+
 
 
 .. toctree::
@@ -44,6 +66,3 @@ JAX는 고성능 수치 컴퓨팅을 위해 `Autograd`_ 와 `XLA`_ 를 결합한
    JAX101/index
 
 
-
-.. _Autograd: https://github.com/hips/autograd
-.. _XLA: https://www.tensorflow.org/xla

@@ -65,10 +65,12 @@ JAX 프로젝트 README의 `설치 가이드 <https://github.com/google/jax#inst
 
    JAX101/(최종본)🔪JAX_The_Sharp_bits🔪.md
 
+
 .. toctree::
    :hidden:
    :maxdepth: 1
 
    JAX101/index
+
 
 

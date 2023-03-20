@@ -17,7 +17,7 @@ Tutorial: JAX 101
    Pseudo_Random_Numbers_in_JAX.md
    .. Working with Pytrees.md
    .. JAX_Parallelism_현아.md
-   .. Stateful_Computations_in_JAX.md
+   Stateful_Computations_in_JAX.md
 
 
 

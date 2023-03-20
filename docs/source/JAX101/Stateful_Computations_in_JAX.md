@@ -234,8 +234,7 @@ plt.legend();
 ```
 
 
-    
-![png](Stateful_Computations_in_JAX_files/Stateful_Computations_in_JAX_14_0.png)
+<img src="Stateful_Computations_in_JAX_files/Stateful_Computations_in_JAX_14_0.png" alt="">
     
 
 

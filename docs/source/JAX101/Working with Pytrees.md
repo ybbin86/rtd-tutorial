@@ -176,7 +176,7 @@ plt.legend();
 
 
     
-![](Working_with_Pytrees_files/Working_with_Pytrees_16_0.png)
+![png](Working_with_Pytrees_files/Working_with_Pytrees_16_0.png)
     
 
 

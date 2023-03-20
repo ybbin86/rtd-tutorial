@@ -10,7 +10,7 @@ Tutorial: JAX 101
    :maxdepth: 1
    :caption: Tutorial
 
-   .. 01-jax-basics-translated.md
+   01-jax-basics-translated.md
    형섭초벌_Jitting_functions_in_JAX.md
    Automatic_Vectorization_in_JAX.md
    Advanced_Grads_1차검수반영완료.md

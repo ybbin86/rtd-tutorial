@@ -15,7 +15,7 @@ Tutorial: JAX 101
    Automatic_Vectorization_in_JAX.md
    Advanced_Grads_1차검수반영완료.md
    Pseudo_Random_Numbers_in_JAX.md
-   .. Working with Pytrees.md
+   Working with Pytrees.md
    .. JAX_Parallelism_현아.md
    Stateful_Computations_in_JAX.md
 
